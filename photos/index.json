@@ -24,5 +24,14 @@
                 "thumbnailUrl": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/thumbnail_Xingtai_sakura.jpg"
             }
         ]
+    },
+    {
+        "title": "Bejing",
+        "images": [
+            {
+                "url": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/Bejing_\u521d\u96ea.jpg",
+                "thumbnailUrl": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/thumbnail_Bejing_\u521d\u96ea.jpg"
+            }
+        ]
     }
 ]
