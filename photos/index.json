@@ -19,8 +19,8 @@
                 "thumbnailUrl": "https://cdn.staticaly.com/img/blog.nzooherd.me/gallery//photos/1-Fobidden=City,=Beijing,=2021/StoneLion.thumbnail.jpg"
             },
             {
-                "url": "https://cdn.staticaly.com/img/blog.nzooherd.me/gallery//photos/1-Fobidden=City,=Beijing,=2021/初雪.jpg",
-                "thumbnailUrl": "https://cdn.staticaly.com/img/blog.nzooherd.me/gallery//photos/1-Fobidden=City,=Beijing,=2021/初雪.thumbnail.jpg"
+                "url": "https://cdn.staticaly.com/img/blog.nzooherd.me/gallery//photos/1-Fobidden=City,=Beijing,=2021/\u521d\u96ea.jpg",
+                "thumbnailUrl": "https://cdn.staticaly.com/img/blog.nzooherd.me/gallery//photos/1-Fobidden=City,=Beijing,=2021/\u521d\u96ea.thumbnail.jpg"
             }
         ]
     },
@@ -30,10 +30,11 @@
             {
                 "url": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/2022-08-12 17.34.31.jpg",
                 "thumbnailUrl": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/cat.jpg"
-
+            },
+            {
+                "url": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/Xingtai_sakura.jpg",
+                "thumbnailUrl": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/thumbnail_Xingtai_sakura.jpg"
             }
         ]
     }
 ]
-
-
