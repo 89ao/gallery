@@ -3,24 +3,24 @@
         "title": "Beijing",
         "images": [
             {
-                "thumbnailUrl": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/thumbnail_Beijing_PaperCut.jpg",
-                "url": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/Beijing_PaperCut.jpg"
+                "url": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/Beijing_PaperCut.jpg",
+                "thumbnailUrl": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/thumbnail_Beijing_PaperCut.jpg"
             },
             {
-                "thumbnailUrl": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/thumbnail_Beijing_PalaceMuseum.jpg",
-                "url": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/Beijing_PalaceMuseum.jpg"
+                "url": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/Beijing_PalaceMuseum.jpg",
+                "thumbnailUrl": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/thumbnail_Beijing_PalaceMuseum.jpg"
             },
             {
-                "thumbnailUrl": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/thumbnail_Beijing_SiwmToBlue.jpg",
-                "url": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/Beijing_SiwmToBlue.jpg"
+                "url": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/Beijing_SiwmToBlue.jpg",
+                "thumbnailUrl": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/thumbnail_Beijing_SiwmToBlue.jpg"
             },
             {
-                "thumbnailUrl": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/thumbnail_Beijing_StoneLion.jpg",
-                "url": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/Beijing_StoneLion.jpg"
+                "url": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/Beijing_StoneLion.jpg",
+                "thumbnailUrl": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/thumbnail_Beijing_StoneLion.jpg"
             },
             {
-                "thumbnailUrl": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/thumbnail_Beijing_\u521d\u96ea.jpg",
-                "url": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/Beijing_\u521d\u96ea.jpg"
+                "url": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/Beijing_\u521d\u96ea.jpg",
+                "thumbnailUrl": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/thumbnail_Beijing_\u521d\u96ea.jpg"
             }
         ]
     },
@@ -28,12 +28,21 @@
         "title": "Xingtai",
         "images": [
             {
-                "thumbnailUrl": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/cat.jpg",
-                "url": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/2022-08-12 17.34.31.jpg"
+                "url": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/2022-08-12 17.34.31.jpg",
+                "thumbnailUrl": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/cat.jpg"
             },
             {
-                "thumbnailUrl": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/thumbnail_Xingtai_sakura.jpg",
-                "url": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/Xingtai_sakura.jpg"
+                "url": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/Xingtai_sakura.jpg",
+                "thumbnailUrl": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/thumbnail_Xingtai_sakura.jpg"
+            }
+        ]
+    },
+    {
+        "title": "Tokyo",
+        "images": [
+            {
+                "url": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/Tokyo_skytree.jpg",
+                "thumbnailUrl": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/thumbnail_Tokyo_skytree.jpg"
             }
         ]
     }
