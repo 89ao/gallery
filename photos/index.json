@@ -21,6 +21,10 @@
             {
                 "url": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/Beijing_\u521d\u96ea.jpg",
                 "thumbnailUrl": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/thumbnail_Beijing_\u521d\u96ea.jpg"
+            },
+            {
+                "url": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/Beijing_padding.jpg",
+                "thumbnailUrl": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/thumbnail_Beijing_padding.jpg"
             }
         ]
     },
