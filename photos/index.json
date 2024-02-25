@@ -58,16 +58,16 @@
         "title": "Tashiro",
         "images": [
             {
-                "url": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/Tashiro_neko.jpg",
-                "thumbnailUrl": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/thumbnail_Tashiro_neko.jpg"
-            },
-            {
                 "url": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/Tashiro_sanhua.jpg",
                 "thumbnailUrl": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/thumbnail_Tashiro_sanhua.jpg"
             },
             {
                 "url": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/Tashiro_shima.jpg",
                 "thumbnailUrl": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/thumbnail_Tashiro_shima.jpg"
+            },
+            {
+                "url": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/Tashiro_isu.jpg",
+                "thumbnailUrl": "https://nzooherd-picture-bed.oss-cn-beijing.aliyuncs.com/thumbnail_Tashiro_isu.jpg"
             }
         ]
     }
